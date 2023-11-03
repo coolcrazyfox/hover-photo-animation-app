@@ -32,6 +32,7 @@ function App() {
     { id: 14, link: fourteenthUrl },
   ];
   // test
+  2;
   return (
     <div>
       <div class={s.wrapper}>
