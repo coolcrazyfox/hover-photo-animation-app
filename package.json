@@ -1,6 +1,7 @@
 {
   "name": "hover-animation-photo",
   "version": "0.1.0",
+  "homepage": "https://coolcrazyfox.github.io/hover-photo-animation-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
