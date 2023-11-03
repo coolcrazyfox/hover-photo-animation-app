@@ -31,7 +31,7 @@ function App() {
     { id: 13, link: thirteenthUrl },
     { id: 14, link: fourteenthUrl },
   ];
-  // test2
+  // test3
   return (
     <div>
       <div class={s.wrapper}>
